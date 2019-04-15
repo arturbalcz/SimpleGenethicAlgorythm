@@ -1,2 +1,2 @@
 # SimpleGenethicAlgorythm
-Simple Genethic Algorythm counting roots of polinomial 
+Simple genethic algorythm counting roots of polinomial 
